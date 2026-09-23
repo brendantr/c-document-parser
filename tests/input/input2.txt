@@ -1,0 +1,10 @@
+2
+Alpha beta gamma. Delta epsilon.
+Red blue green. Yellow.
+6
+1 2
+2 1 1
+2 2 1
+3 1 1 1
+3 2 1 1
+3 2 2 1
